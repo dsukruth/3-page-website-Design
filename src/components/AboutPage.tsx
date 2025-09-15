@@ -69,7 +69,7 @@ export function AboutPage() {
                   <p><strong>Professor Email:</strong> pshapiro@umd.edu</p>
                 </div>
                 <div className="glass rounded-xl p-3">
-                  <p><strong>Teaching Assistants:</strong> John Doe, Sarah Wilson</p>
+                  <p><strong>Teaching Assistants:</strong> ZAM - zam@umd.edu, SAMIHA - smeah@umd.edu, ABHI - agupta09@umd.edu</p>
                 </div>
                 <div className="glass rounded-xl p-3">
                   <p><strong>Semester:</strong> Fall 2025</p>
